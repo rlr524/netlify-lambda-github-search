@@ -1,7 +1,7 @@
 {
   "name": "netlify-lambda-github-search",
-  "version": "0.1.0",
-  "description": "",
+  "version": "1.0.0",
+  "description": "Netlify Lambda Functions for GitHub search with Traversy",
   "main": "main.js",
   "scripts": {
     "lambda-serve": "netlify-lambda serve functions",
@@ -16,10 +16,11 @@
   "bugs": {
     "url": "https://github.com/rlr524/netlify-lambda-github-search/issues"
   },
-  "homepage": ".",
+  "homepage": "http://.",
   "dependencies": {
     "axios": "^0.19.2",
     "dotenv": "^8.2.0",
     "netlify-lambda": "^1.6.3"
-  }
+  },
+  "devDependencies": {}
 }
