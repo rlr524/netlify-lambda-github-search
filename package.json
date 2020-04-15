@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/rlr524/netlify-lambda-github-search/issues"
   },
-  "homepage": "http://.",
+  "homepage": ".",
   "dependencies": {
     "axios": "^0.19.2",
     "dotenv": "^8.2.0",
